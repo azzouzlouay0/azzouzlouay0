@@ -30,9 +30,14 @@
 
 | PORT | RELIC | WHAT LURKS WITHIN | STACK |
 |---|---|---|---|
-| `22/open` | **[Project One](https://github.com/azzouzlouay0/project-one)** | One line about it | `Python` `Bash` |
-| `80/open` | **[Project Two](https://github.com/azzouzlouay0/project-two)** | One line about it | `JavaScript` |
-| `443/open` | **[Project Three](https://github.com/azzouzlouay0/project-three)** | One line about it | `Linux` `Docker` |
+| `22/open` | **[linux-black-box](https://github.com/azzouzlouay0/linux-black-box)** | Linux incident replay and observability platform that reconstructs system activity before failures | `Python` `Linux` |
+| `80/open` | **[NetIP-Inspector](https://github.com/azzouzlouay0/NetIP-Inspector)** | IPv4/IPv6 network inspection tool using REST APIs, OOP and collaborative DevOps with Git | `Python` `REST` |
+| `443/open` | **[linux-guard-lite](https://github.com/azzouzlouay0/linux-guard-lite)** | Bash toolkit for Linux admin and security: files, permissions, backups, scheduling, network utilities | `Bash` `Shell` |
+| `8080/open` | **[rock-paper-scissors-game](https://github.com/azzouzlouay0/rock-paper-scissors-game)** | A classic game, built to sharpen the basics | `Python` |
+
+<div align="center"> <a href="https://github.com/azzouzlouay0/linux-black-box"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=azzouzlouay0&repo=linux-black-box&bg_color=000000&title_color=b30000&text_color=8a8a8a&icon_color=ff0000&border_color=3a0000" /></a> <a href="https://github.com/azzouzlouay0/NetIP-Inspector"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=azzouzlouay0&repo=NetIP-Inspector&bg_color=000000&title_color=b30000&text_color=8a8a8a&icon_color=ff0000&border_color=3a0000" /></a> </div>
+
+<div align="center"> <a href="https://github.com/azzouzlouay0/linux-guard-lite"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=azzouzlouay0&repo=linux-guard-lite&bg_color=000000&title_color=b30000&text_color=8a8a8a&icon_color=ff0000&border_color=3a0000" /></a> <a href="https://github.com/azzouzlouay0/rock-paper-scissors-game"><img height="130" src="https://github-readme-stats.vercel.app/api/pin/?username=azzouzlouay0&repo=rock-paper-scissors-game&bg_color=000000&title_color=b30000&text_color=8a8a8a&icon_color=ff0000&border_color=3a0000" /></a> </div>
 
 <div align="center"> <img src="https://raw.githubusercontent.com/azzouzlouay0/azzouzlouay0/main/divider.svg" width="100%" alt="divider" /> </div>
 
